@@ -1,0 +1,15 @@
+{
+  "name": "agora_webrtc_lb_dk_demo",
+  "version": "2.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "crc-32": "^1.2.0",
+    "cuint": "^0.2.2",
+    "express": "^3.4.8",
+    "npm": "^6.0.0"
+  },
+  "author": "agora"
+}
